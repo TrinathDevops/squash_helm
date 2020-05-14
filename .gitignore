@@ -56,3 +56,6 @@ day1/writing-good-modules/*
 build/
 */build/
 out/
+
+./cdk8s/hello-world/imports
+./cdk8s/hello-world/imports/*
